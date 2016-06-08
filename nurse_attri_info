@@ -1,0 +1,10 @@
+parents,has_nurs,form,children,housing,finance,social,health,class
+usual,pretentious,greatPret
+proper,lessProper,improper,critical,veryCrit
+complete,completed,incomplete,foster
+1,2,3,more
+convenient,lessConv,critical
+convenient,inconv
+nonProb,slightlyProb,problematic
+recommended,priority,notRecom
+notRecom,recommend,veryRecom,priority,specPrior

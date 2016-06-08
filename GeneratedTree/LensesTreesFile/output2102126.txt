@@ -1,0 +1,7 @@
+tearProductionRate[4, 4, 13]
+|.(1)-<Leaf Node>:3[0, 0, 11]
+|.(2)-astigmatic[4, 4, 2]
+|.|.(1)-<Leaf Node>:2[0, 4, 1]
+|.|.(2)-<Leaf Node>:1[4, 0, 1]
+errRate-9: %33.33333333333333
+10 Fold Cross Validation Error Rate: % 15.0000  ±  5.9861	

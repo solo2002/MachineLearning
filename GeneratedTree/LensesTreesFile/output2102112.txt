@@ -1,0 +1,17 @@
+tearProductionRate[4, 5, 13]
+|.(1)-<Leaf Node>:3[0, 0, 10]
+|.(2)-astigmatic[4, 5, 3]
+|.|.(1)-age[0, 5, 1]
+|.|.|.(1)-<Leaf Node>:2[0, 2, 0]
+|.|.|.(2)-<Leaf Node>:2[0, 2, 0]
+|.|.|.(3)-spectaclePrescription[0, 1, 1]
+|.|.|.|.(1)-<Leaf Node>:3[0, 0, 1]
+|.|.|.|.(2)-<Leaf Node>:2[0, 1, 0]
+|.|.(2)-spectaclePrescription[4, 0, 2]
+|.|.|.(1)-<Leaf Node>:1[3, 0, 0]
+|.|.|.(2)-age[1, 0, 2]
+|.|.|.|.(1)-<Leaf Node>:1[1, 0, 0]
+|.|.|.|.(2)-<Leaf Node>:3[0, 0, 1]
+|.|.|.|.(3)-<Leaf Node>:3[0, 0, 1]
+errRate-6: %0.0
+Total number of node: 10	Total number of leaf node: 6

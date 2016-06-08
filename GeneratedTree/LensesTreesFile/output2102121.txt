@@ -1,0 +1,7 @@
+tearProductionRate[4, 5, 13]
+|.(1)-<Leaf Node>:3[0, 0, 10]
+|.(2)-astigmatic[4, 5, 3]
+|.|.(1)-<Leaf Node>:2[0, 5, 1]
+|.|.(2)-<Leaf Node>:1[4, 0, 2]
+errRate-0: %0.0
+Total number of node: 5	Total number of leaf node: 3
